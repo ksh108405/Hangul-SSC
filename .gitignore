@@ -1,3 +1,4 @@
+/.idea/
 /weights/
 /vgg16_reducedfc.pth
 /utils/excluded test set.txt
