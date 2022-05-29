@@ -1,0 +1,4 @@
+/weights/
+/vgg16_reducedfc.pth
+/utils/excluded test set.txt
+/utils/excluded train set.txt
