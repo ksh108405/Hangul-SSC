@@ -1,6 +1,6 @@
 # Hangul-SSC
-Single Shot Classifier for Hangul Classfication
-- forked from [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) by amdegroot
+Single Shot Classifier for Hangul Classfication  
+Forked from [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) by amdegroot
 
 ## Environment
 - CUDA toolkit 11.0
