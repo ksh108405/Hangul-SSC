@@ -2,6 +2,7 @@
 Single Shot Classifier for Hangul Classfication
 
 ## Environment
+- CUDA toolkit 11.0
 - Pytorch 1.7.0
 - SciPy 1.5.3
 - Numpy 1.19.2
